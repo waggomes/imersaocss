@@ -1,0 +1,39 @@
+body {
+  
+    background-image: url('https://bonstutoriais.com.br/wp-content/uploads/2018/04/curso-wordpress-850x478.jpg');
+    font-family:Arial;
+    background-size:auto 100vh;
+    height:100vh;
+  }
+  .menu{
+    
+    background-color: whitesmoke;
+    
+  }
+  
+  .menu li{
+    list-style:none;
+  }
+  
+  .menu ul{
+    
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  a{
+    
+    text-decoration:none;
+  }
+  
+  a:hover{
+    
+    text-decoration:underline;
+  }
+  
+  
+  .site-subtitle,
+  .site-title{
+    color: whitesmoke;
+    text-align: center;
+  }
